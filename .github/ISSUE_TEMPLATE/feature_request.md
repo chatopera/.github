@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: 描述需求，建议添加新功能
 
 ---
 
@@ -24,18 +24,11 @@ Also note that the Atom team has finite resources so it's unlikely that we'll wo
 
 -->
 
-## Summary
+## 概述
+
+提交[公司信息说明](http://chatopera.mikecrm.com/lVtMuGN)后优先处理解决！
+
 
 <!-- One paragraph explanation of the feature. -->
 
-## Motivation
-
-<!-- Why are we doing this? What use cases does it support? What is the expected outcome? -->
-
-## Describe alternatives you've considered
-
-<!-- A clear and concise description of the alternative solutions you've considered. Be sure to explain why Atom's existing customizability isn't suitable for this feature. -->
-
-## Additional context
-
-<!-- Add any other context or screenshots about the feature request here. -->
+## 原因说明
