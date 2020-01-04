@@ -1,6 +1,6 @@
 ---
-name: Documentation
-about: 需要提供文档
+name: Requirement
+about: 描述新需求、建议添加新功能
 ---
 
 <!-- 产品使用说明书 -->
@@ -9,22 +9,13 @@ about: 需要提供文档
 <!-- 快速掌握春松客服功能及二次开发 -->
 <!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
 
-# 描述
+## 概述
 
-<!-- 需要哪些帮助 -->
 <!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
 
-# 环境
+<!-- One paragraph explanation of the feature. -->
 
-## 操作系统
-
-- [ ] macOS or Mac OSX
-- [ ] Windows
-- [ ] Linux(Debian, CentOS, Ubuntu, etc.)
-
-## 代码版本
-
-Git commit hash (`git rev-parse HEAD`)
+## 原因说明
 
 ## OpenSource by Chatopera
 
