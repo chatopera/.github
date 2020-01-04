@@ -35,3 +35,10 @@
 - [ ] 我已经更新了对应的文档
 - [ ] 我增加的代码有单元测试
 - [ ] 所有单元测试都能通过
+
+## OpenSource by Chatopera
+
+[![chatoper banner][co-banner-image]][co-url]
+
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-url]: https://www.chatopera.com
