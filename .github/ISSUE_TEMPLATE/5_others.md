@@ -1,6 +1,6 @@
 ---
-name: Feedback
-about: 描述新需求、反馈建议
+name: Others
+about: 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html
 ---
 
 <!-- 产品使用说明书 -->
@@ -13,9 +13,7 @@ about: 描述新需求、反馈建议
 
 <!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
 
-<!-- One paragraph explanation of the feature. -->
 
-## 原因说明
 
 ## OpenSource by Chatopera
 
