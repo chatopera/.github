@@ -11,9 +11,8 @@ about: 其它相关事项，或通过其它方式联系我们：https://www.chat
 
 ## 概述
 
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
-
-
+<!-- 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html -->
+<!-- 合作，商务，市场宣传等 -->
 
 ## OpenSource by Chatopera
 
