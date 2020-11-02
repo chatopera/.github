@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: 描述新需求、反馈建议
+about: 描述新需求、反馈建议，有机会获得 Chatopera 云服务代金券
 ---
 
 <!-- 产品使用说明书 -->
@@ -9,9 +9,12 @@ about: 描述新需求、反馈建议
 <!-- 快速掌握春松客服功能及二次开发 -->
 <!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
 
-## 概述
+## 来自
 
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
+- 公司：
+- 产品：
+
+## 概述
 
 <!-- One paragraph explanation of the feature. -->
 
