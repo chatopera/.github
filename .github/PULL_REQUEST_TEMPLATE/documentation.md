@@ -2,9 +2,7 @@
 
 ## 变更说明
 
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
-
-## OpenSource by Chatopera
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 

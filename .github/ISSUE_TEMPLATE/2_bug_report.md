@@ -3,28 +3,9 @@ name: Bug
 about: 提交软件缺陷，有机会获得 Chatopera 云服务代金券
 ---
 
-<!-- 产品使用说明书 -->
-<!-- https://docs.chatopera.com/ -->
-
-<!-- 快速掌握春松客服功能及二次开发 -->
-<!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
-
-## 来自
-
-- 公司：
-- 产品：
-
-# 描述
-
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
-
 ## 现在行为
 
 ## 预期行为
-
-# 解决方案
-
-# 环境
 
 ## 操作系统
 
@@ -32,11 +13,28 @@ about: 提交软件缺陷，有机会获得 Chatopera 云服务代金券
 - [ ] Windows
 - [ ] Linux(Debian, CentOS, Ubuntu, etc.)
 
+## 解决方案
+
 ## 代码版本
+<!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
 
-Git commit hash (`git rev-parse HEAD`)
+## 来自
+<!-- 说明公司或行业后优先支持 -->
 
-## OpenSource by Chatopera
+- 行业：
+- 公司/团队 官网：
+
+
+<!-- 产品使用说明书 -->
+<!-- https://docs.chatopera.com/ -->
+
+<!-- 快速掌握春松客服功能及二次开发 -->
+<!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
+
+<!-- 非产品缺陷请联系商务获得支持 -->
+<!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
+
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 

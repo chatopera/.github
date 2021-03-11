@@ -3,23 +3,25 @@ name: Others
 about: 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html
 ---
 
+## 概述
+<!-- 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html -->
+
+## 来自
+<!-- 说明公司或行业后优先支持 -->
+
+- 行业：
+- 公司/团队 官网：
+
 <!-- 产品使用说明书 -->
 <!-- https://docs.chatopera.com/ -->
 
 <!-- 快速掌握春松客服功能及二次开发 -->
 <!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
 
-## 来自
+<!-- 非产品缺陷请联系商务获得支持 -->
+<!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
 
-- 公司：
-- 产品：
-
-## 概述
-
-<!-- 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html -->
-<!-- 合作，商务，市场宣传等 -->
-
-## OpenSource by Chatopera
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 

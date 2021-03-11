@@ -1,9 +1,7 @@
 <!--- 在标题中简略说明问题 -->
 
 ## 描述
-
 <!--- 详细的描述变更 -->
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
 
 ## 解决的问题
 
@@ -36,7 +34,7 @@
 - [ ] 我增加的代码有单元测试
 - [ ] 所有单元测试都能通过
 
-## OpenSource by Chatopera
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 

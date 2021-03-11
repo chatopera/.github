@@ -3,6 +3,31 @@ name: Help
 about: 开发环境搭建、功能咨询和使用问题等
 ---
 
+## 描述
+<!-- 详细描述问题后优先处理解决！ 截图、错误日志等 -->
+
+## 功能
+<!-- 针对某功能，需要提供详细描述文档 -->
+
+
+## 操作系统
+
+- [ ] macOS or Mac OSX
+- [ ] Windows
+- [ ] Linux(Debian, CentOS, Ubuntu, etc.)
+
+
+## 代码版本
+<!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
+
+
+## 来自
+<!-- 说明公司或行业后优先支持 -->
+
+- 行业：
+- 公司/团队 官网：
+
+
 <!-- 产品使用说明书 -->
 <!-- https://docs.chatopera.com/ -->
 
@@ -12,32 +37,7 @@ about: 开发环境搭建、功能咨询和使用问题等
 <!-- 非产品缺陷请联系商务获得支持 -->
 <!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
 
-## 来自
-
-- 公司：
-- 产品：
-
-# 描述
-
-<!-- 提交公司信息说明后优先处理解决！ http://chatopera.mikecrm.com/lVtMuGN -->
-
-## 功能
-
-<!-- 针对某功能，需要提供详细描述文档 -->
-
-# 环境
-
-## 操作系统
-
-- [ ] macOS or Mac OSX
-- [ ] Windows
-- [ ] Linux(Debian, CentOS, Ubuntu, etc.)
-
-## 代码版本
-
-Git commit hash (`git rev-parse HEAD`)
-
-## OpenSource by Chatopera
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 

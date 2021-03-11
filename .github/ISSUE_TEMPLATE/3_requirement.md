@@ -3,24 +3,31 @@ name: Feedback
 about: 描述新需求、反馈建议，有机会获得 Chatopera 云服务代金券
 ---
 
+## 概述
+<!-- 描述需求 -->
+
+## 理想解决方案
+
+## 代码版本
+<!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
+
+
+## 来自
+<!-- 说明公司或行业后优先支持 -->
+
+- 行业：
+- 公司/团队 官网：
+
 <!-- 产品使用说明书 -->
 <!-- https://docs.chatopera.com/ -->
 
 <!-- 快速掌握春松客服功能及二次开发 -->
 <!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
 
-## 来自
+<!-- 非产品缺陷请联系商务获得支持 -->
+<!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
 
-- 公司：
-- 产品：
-
-## 概述
-
-<!-- One paragraph explanation of the feature. -->
-
-## 原因说明
-
-## OpenSource by Chatopera
+## Open Source for the World by Chatopera 
 
 [![chatoper banner][co-banner-image]][co-url]
 
