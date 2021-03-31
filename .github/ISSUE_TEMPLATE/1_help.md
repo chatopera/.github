@@ -3,6 +3,14 @@ name: Help
 about: 开发环境搭建、功能咨询和使用问题等
 ---
 
+<!-- Sponsor this project / 开源项目支持方 -->
+
+<!-- Chatopera 云服务：低代码、无代码方式定制智能对话机器人 -->
+<!-- https://bot.chatopera.com/ -->
+
+<!-- 春松客服：快速获得好用的开源客服系统 -->
+<!-- https://www.cskefu.com/ -->
+
 ## 描述
 <!-- 详细描述问题后优先处理解决！ 截图、错误日志等 -->
 

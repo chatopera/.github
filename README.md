@@ -1,6 +1,7 @@
-# Chatopera Default Metadata
+# Chatopera
+Deliver chatbots for enterprises.
 
-:rotating_light: **WARNING** :rotating_light: This README should only show on the repository at https://github.com/chatopera/.github. If it is showing on some other repo, please open an issue to have it fixed.
+[https://www.chatopera.com](https://www.chatopera.com)
 
 ## OpenSource by Chatopera
 

@@ -3,6 +3,14 @@ name: Profiling
 about: 瓶颈分析、性能优化建议和安全漏洞等，有机会获得 Chatopera 云服务代金券
 ---
 
+<!-- Sponsor this project / 开源项目支持方 -->
+
+<!-- Chatopera 云服务：低代码、无代码方式定制智能对话机器人 -->
+<!-- https://bot.chatopera.com/ -->
+
+<!-- 春松客服：快速获得好用的开源客服系统 -->
+<!-- https://www.cskefu.com/ -->
+
 ## 概述
 
 ## 操作系统
