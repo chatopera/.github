@@ -1,6 +1,9 @@
 ---
 name: Others
 about: 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html
+title: ''
+labels: task
+assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->

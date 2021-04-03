@@ -1,6 +1,9 @@
 ---
 name: Profiling
 about: 瓶颈分析、性能优化建议和安全漏洞等，有机会获得 Chatopera 云服务代金券
+title: ''
+labels: profiling
+assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->

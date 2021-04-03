@@ -1,6 +1,9 @@
 ---
 name: Bug
 about: 提交软件缺陷，有机会获得 Chatopera 云服务代金券
+title: ''
+labels: bug
+assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->

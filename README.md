@@ -3,6 +3,11 @@ Deliver chatbots for enterprises.
 
 [https://www.chatopera.com](https://www.chatopera.com)
 
+## 商务支持
+
+商务洽谈：https://www.chatopera.com/mail.html
+软件使用参考文档中心：https://docs.chatopera.com/
+
 ## OpenSource by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]

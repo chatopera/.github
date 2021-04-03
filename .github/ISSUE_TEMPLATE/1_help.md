@@ -1,6 +1,9 @@
 ---
 name: Help
 about: 开发环境搭建、功能咨询和使用问题等
+title: ''
+labels: help-wanted
+assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->

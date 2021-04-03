@@ -1,6 +1,9 @@
 ---
 name: Feedback
 about: 描述新需求、反馈建议，有机会获得 Chatopera 云服务代金券
+title: ''
+labels: requirement
+assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->
