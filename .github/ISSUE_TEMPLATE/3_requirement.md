@@ -1,5 +1,5 @@
 ---
-name: Feedback
+name: Requirement
 about: 描述新需求、反馈建议，有机会获得 Chatopera 云服务代金券
 title: ''
 labels: requirement
