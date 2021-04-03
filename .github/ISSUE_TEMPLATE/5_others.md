@@ -7,12 +7,8 @@ assignees: hailiang-wang
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->
-
-<!-- Chatopera 云服务：低代码、无代码方式定制智能对话机器人 -->
-<!-- https://bot.chatopera.com/ -->
-
-<!-- 春松客服：快速获得好用的开源客服系统 -->
-<!-- https://www.cskefu.com/ -->
+<!-- Chatopera 云服务：低代码、无代码方式定制智能对话机器人，查看 https://bot.chatopera.com/ -->
+<!-- 春松客服：快速获得好用的开源客服系统，查看 https://www.cskefu.com/ -->
 
 ## 概述
 <!-- 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html -->
