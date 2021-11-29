@@ -3,7 +3,7 @@ name: Bug
 about: 提交软件缺陷，有机会获得 Chatopera 云服务代金券
 title: 'Title: 用一句话陈述事情，保证言简意赅，比如问题简述及 root cause 日志语句，更容易获得帮助'
 labels: bug
-assignees: hailiang-wang
+assignees: mukaiu
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->

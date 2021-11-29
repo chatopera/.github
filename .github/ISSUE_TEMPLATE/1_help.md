@@ -3,7 +3,7 @@ name: Help
 about: 开发环境搭建、功能咨询和使用问题等
 title: 'Title: 用一句话陈述事情，保证言简意赅，比如问题简述及 root cause 日志语句，更容易获得帮助'
 labels: help-wanted
-assignees: hailiang-wang
+assignees: mukaiu
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->
