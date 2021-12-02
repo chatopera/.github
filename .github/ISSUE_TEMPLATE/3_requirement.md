@@ -18,23 +18,17 @@ assignees: mukaiu
 ## 代码版本
 <!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
 
+## 关于春松客服
 
-## 来自
-<!-- 说明公司或行业后优先支持 -->
+- 春松客服：做好开源客服系统
 
-- 行业：
-- 公司/团队 官网：
+[https://dwz.chatopera.com/7VLF0B](https://dwz.chatopera.com/7VLF0B)
 
-<!-- 产品使用说明书 -->
-<!-- https://docs.chatopera.com/ -->
+- 《春松客服大讲堂》：面向开发者的免费视频教程来了
 
-<!-- 快速掌握春松客服功能及二次开发 -->
-<!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
+[https://dwz.chatopera.com/19K4R](https://dwz.chatopera.com/19K4R)
 
-<!-- 非产品缺陷请联系商务获得支持 -->
-<!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
-
-## Open Source for the World by Chatopera 
+## Open Source for the World by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
 
