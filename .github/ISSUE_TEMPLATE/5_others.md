@@ -27,5 +27,5 @@ assignees: mukaiu
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734169-5ccb5e05-48bb-400e-8cc0-064592badd6a.jpg
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
 [co-url]: https://www.chatopera.com
