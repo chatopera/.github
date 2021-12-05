@@ -39,5 +39,5 @@ assignees: mukaiu
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734169-5ccb5e05-48bb-400e-8cc0-064592badd6a.jpg
 [co-url]: https://www.chatopera.com
