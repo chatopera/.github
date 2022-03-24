@@ -33,9 +33,9 @@ assignees: mukaiu
 
 因春松客服受益，而不回报开源社区的用户，我们不欢迎使用春松客服：我们开源并不是为了你们，你们是不被祝福的。
 
-## Open Source for the World by Chatopera
+## Open Source for the World
 
-[![chatoper banner][co-banner-image]][co-url]
+[![banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/159913838-fbed2a14-a735-45b3-9e48-4727780a0d96.png
 [co-url]: https://www.chatopera.com
