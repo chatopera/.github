@@ -13,20 +13,15 @@ assignees: hailiang-wang
 ## 概述
 <!-- 其它相关事项，或通过其它方式联系我们：https://www.chatopera.com/mail.html -->
 
-## 来自
-<!-- 说明公司或行业后优先支持 -->
+## 祝福与不祝福
 
-- 行业：
-- 公司/团队 官网：
+春松客服之所以开源，是基于这样一种信念：爱人也是爱己，利他也是利己。
 
-<!-- 产品使用说明书 -->
-<!-- https://docs.chatopera.com/ -->
+对人和人美好关系的向往，对人潜力的信任。让我们相信因春松客服而受益的人，会回报给春松客服开源社区，我们所有贡献者基于共赢的信念合作。
 
-<!-- 快速掌握春松客服功能及二次开发 -->
-<!-- 春松客服大讲堂：https://ke.qq.com/course/464050 -->
+回报方式包括：[提交 PR](https://github.com/chatopera/cskefu/blob/osc/CONTRIBUTING.md)、购买春松客服相关的[付费产品和服务](https://www.chatopera.com/price.html)等。
 
-<!-- 非产品缺陷请联系商务获得支持 -->
-<!-- 定制化开发, 培训，咨询等: https://www.chatopera.com/mail.html -->
+因春松客服受益，而不回报开源社区的用户，我们不欢迎使用春松客服：我们开源并不是为了你们，你们是不被祝福的。
 
 ## Open Source for the World by Chatopera 
 
