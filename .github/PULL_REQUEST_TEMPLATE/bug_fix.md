@@ -24,7 +24,7 @@
 - [ ] 新功能（不影响其他功能）
 - [ ] 对其他功能有影响
 
-## 检查:
+## 检查
 
 <!--- 检查下面，各项，添加 `x` 到下面的对应项目中: -->
 
@@ -34,9 +34,9 @@
 - [ ] 我增加的代码有单元测试
 - [ ] 所有单元测试都能通过
 
-## Open Source for the World by Chatopera 
+## Open Source for the World by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
 [co-url]: https://www.chatopera.com

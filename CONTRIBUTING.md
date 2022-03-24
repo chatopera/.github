@@ -2,7 +2,7 @@
 
 参考不同项目 Wiki
 
-https://github.com/chatopera
+<https://github.com/chatopera>
 
 通过 PullRequest 提交变更，后经团队 CodeReview。
 
@@ -10,5 +10,5 @@ https://github.com/chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
 [co-url]: https://www.chatopera.com

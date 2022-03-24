@@ -3,12 +3,8 @@ name: Help
 about: 开发环境搭建、功能咨询和使用问题等
 title: '标题用一句话陈述，言简意赅，比如问题简述及 root cause 日志语句，更容易获得帮助'
 labels: help-wanted
-assignees: hailiang-wang
+assignees: mukaiu
 ---
-
-<!-- Sponsor this project / 开源项目支持方 -->
-<!-- Chatopera 云服务：低代码、无代码方式定制智能对话机器人，查看 https://bot.chatopera.com/ -->
-<!-- 春松客服：快速获得好用的开源客服系统，查看 https://www.cskefu.com/ -->
 
 ## 描述
 <!-- 详细描述问题后优先处理解决！ 截图、错误日志等 -->
@@ -16,17 +12,14 @@ assignees: hailiang-wang
 ## 功能
 <!-- 针对某功能，需要提供详细描述文档 -->
 
-
 ## 操作系统
 
 - [ ] macOS or Mac OSX
 - [ ] Windows
 - [ ] Linux(Debian, CentOS, Ubuntu, etc.)
 
-
 ## 代码版本
 <!-- Git commit hash (`git rev-parse HEAD`)，进入代码库并执行 -->
-
 
 ## 祝福与不祝福
 
@@ -38,9 +31,9 @@ assignees: hailiang-wang
 
 因春松客服受益，而不回报开源社区的用户，我们不欢迎使用春松客服：我们开源并不是为了你们，你们是不被祝福的。
 
-## Open Source for the World by Chatopera 
+## Open Source for the World by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
 [co-url]: https://www.chatopera.com

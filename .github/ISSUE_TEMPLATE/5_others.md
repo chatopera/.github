@@ -3,7 +3,7 @@ name: Others
 about: 商业支持，洽谈合作等，其它事项，通过官网获得联系方式：https://www.chatopera.com/mail.html
 title: '标题用一句话陈述，言简意赅，比如问题简述及 root cause 日志语句，更容易获得帮助'
 labels: task
-assignees: hailiang-wang
+assignees: mukaiu
 ---
 
 <!-- Sponsor this project / 开源项目支持方 -->
@@ -23,9 +23,9 @@ assignees: hailiang-wang
 
 因春松客服受益，而不回报开源社区的用户，我们不欢迎使用春松客服：我们开源并不是为了你们，你们是不被祝福的。
 
-## Open Source for the World by Chatopera 
+## Open Source for the World by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
 
-[co-banner-image]: https://user-images.githubusercontent.com/3538629/42383104-da925942-8168-11e8-8195-868d5fcec170.png
+[co-banner-image]: https://user-images.githubusercontent.com/3538629/144734473-df8ec8dd-ad0b-400f-8542-e4d40fb96375.jpg
 [co-url]: https://www.chatopera.com
