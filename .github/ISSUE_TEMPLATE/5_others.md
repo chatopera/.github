@@ -1,7 +1,7 @@
 ---
 name: Others
 about: 商业支持，洽谈合作等，其它事项，通过官网获得联系方式：https://www.chatopera.com/mail.html
-title: '标题用一句话陈述，言简意赅，比如问题简述及 root cause 日志语句，更容易获得帮助'
+title: '言简意赅，更容易获得帮助，比如问题简述及 root cause 日志语句'
 labels: task
 assignees: hailiang-wang
 ---
