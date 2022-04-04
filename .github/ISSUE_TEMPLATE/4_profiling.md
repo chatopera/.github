@@ -1,6 +1,6 @@
 ---
 name: Profiling
-about: 瓶颈分析、性能优化建议和安全漏洞等，有机会获得 Chatopera 云服务代金券
+about: 瓶颈分析、性能优化建议和安全漏洞等
 title: '言简意赅，更容易获得帮助，比如问题简述及 root cause 日志语句'
 labels: profiling
 assignees: hailiang-wang

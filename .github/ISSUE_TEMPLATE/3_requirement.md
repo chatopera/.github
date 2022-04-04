@@ -1,6 +1,6 @@
 ---
 name: Requirement
-about: 描述新需求、反馈建议，有机会获得 Chatopera 云服务代金券
+about: 描述新需求、反馈建议
 title: '言简意赅，更容易获得帮助，比如问题简述及 root cause 日志语句'
 labels: requirement
 assignees: hailiang-wang
