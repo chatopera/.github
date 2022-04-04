@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: 提交软件缺陷
+about: 报告软件缺陷
 title: '言简意赅，更容易获得帮助，比如问题简述及 root cause 日志语句'
 labels: bug
 assignees: hailiang-wang
