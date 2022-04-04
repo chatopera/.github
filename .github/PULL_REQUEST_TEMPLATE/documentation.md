@@ -2,6 +2,8 @@
 
 ## 变更说明
 
+### 关联 Issue #
+
 ## Open Source for the World by Chatopera
 
 [![chatoper banner][co-banner-image]][co-url]
